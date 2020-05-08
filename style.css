@@ -1,0 +1,21 @@
+div {
+  padding: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.chart1 {
+  width: 50%;
+  float: right;
+}
+
+.chart2 {
+  width: 50%;
+  float: left;
+}
+
+.chart3 {
+  height: 100px;
+}
